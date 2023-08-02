@@ -29,7 +29,7 @@ But the most app are third parties, webview debugging is disabled, `WebViewDebug
 *You can post an issue to support more webview*
 
 ## Chrome
-- [link](chrome://inspect )
+- chrome://inspect
 
 ## Question
 
